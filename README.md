@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá, meu nome é guilherme!
+Static GitHub
+
+tenho como objetivo estudar informatica para ter conhecimento onde possa ter habilidades na area de trabalho.
