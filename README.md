@@ -13,8 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Olá, meu nome é guilherme!
-Static GitHub
-
+-->                                    
+Olá, meu nome é guilherme!            {   *       * }
+Static GitHub                         {        )     }
+                                            \______ 
+                                            
 tenho como objetivo estudar informatica para ter conhecimento onde possa ter habilidades na area de trabalho.
+
+ Por mais que as vezes o conteudo seja complexo ou que a rotina seja corrida temos que que dizer a nós mesmo que nois conseguimos e sempre dizer essa frase;
+
+ "Não duvide das suas forças, duvide das suas fraquezas" 
+  Todos nós somos fortes como guerreiros 
+
+   o======{}:::::::::::::::::::::::>         
